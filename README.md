@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Modules...;Access+Granted" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Modules...;Access+Granted" />
 </h1>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=Loading+Cyber+Interface...;Connecting+to+Secure+Server...;Authentication+Successful" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Loading+Cyber+Interface...;Connecting+to+Secure+Server...;Authentication+Successful" />
 </h2>
 
 ---
