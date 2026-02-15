@@ -1,0 +1,25 @@
+name: Auto Release
+
+on:
+  push:
+    # This triggers when kemet.apk file is updated
+    paths:
+      - kemet.apk
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Public Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.${{ github.run_number }}
+          name: Kemet Public Release
+          files: kemet.apk
